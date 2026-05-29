@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentferify",
+        "uuid": 28259530,
+        "checksum": "klba9o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
